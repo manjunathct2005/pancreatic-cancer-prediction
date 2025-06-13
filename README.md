@@ -9,3 +9,6 @@ Techniques used include:
 Data preprocessing & feature selection
 Model training & validation
 Evaluation using accuracy, precision, recall, F1-score.
+
+
+Dataset link = https://www.kaggle.com/datasets/jayaprakashpondy/pancreatic-ct-images 
